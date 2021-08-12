@@ -13,3 +13,6 @@ __pypackages__/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Folders to ignore
+Notrack/
